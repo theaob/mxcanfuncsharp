@@ -1,0 +1,5 @@
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\mxcanfuncsharp\mxcanfuncsharp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\mxcanfuncsharp\mxcanfuncsharp\bin\Debug\mxcanfuncsharp.dll
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\mxcanfuncsharp\mxcanfuncsharp\bin\Debug\mxcanfuncsharp.pdb
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\mxcanfuncsharp\mxcanfuncsharp\obj\Debug\mxcanfuncsharp.dll
+C:\Users\Test Pc1\Documents\Visual Studio 2008\Projects\mxcanfuncsharp\mxcanfuncsharp\obj\Debug\mxcanfuncsharp.pdb
